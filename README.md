@@ -62,7 +62,7 @@ The dashboard tracks important business metrics such as:
 
 ---
 
-## 📊 Dashboard Pages
+
 
 ### 1️⃣ Sales Summary Dashboard
 
